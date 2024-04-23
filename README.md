@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 
 ![ocean_waves_2](https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a)
 
-![taku-morisakiii-ocean-waves-anime](https://github.com/krschan/krschan/assets/114497613/ec090389-d550-456c-9dd9-e48950061127)
-
