@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 
 ![ocean_waves_2](https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a)
 
+![](https://komarev.com/ghpvc/?username=krschan)
+
