@@ -15,12 +15,18 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  <img src="https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a" alt="ocean_waves_2">
+  <img src="https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a" alt="ocean_waves">
 </div>
 
+##
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/krschan/count.svg" />
 </p>
+
+<details>
+  <summary><b>Click to expand</b></summary>  
+
+> "code today, cry tomorrow."
 
