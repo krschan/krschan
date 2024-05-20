@@ -11,7 +11,7 @@
 
 <details>
   <summary><b>Click to expand</b></summary>
-  code today, cry tomorrow.
+  <p align="center">code today, cry tomorrow.</p>
 </details>
 
 <!--
