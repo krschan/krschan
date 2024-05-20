@@ -13,9 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align="center">
-  ![ocean_waves_2](https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a)
+  <img src="https://github.com/krschan/krschan/assets/114497613/f6b32e6d-6462-4eab-9198-b663b63c060a" alt="ocean_waves_2">
 </div>
+
 
 <p align="center"> 
   Visitor count<br>
