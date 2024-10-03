@@ -17,11 +17,14 @@
 <img alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="java">
 <img alt="java" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="50" title="java">
 </p>
-<div align="right" padding-right="">
-
+<div align="left" padding-right="">
+  
+<details>
+<summary>GitHub stats</summary>
 <p align="center">
-  <a href="https://github.com/krschan"><img src="https://github-readme-stats.vercel.app/api?username=krschan&hide_border=true&theme=date_night&show_icons=true" alt="krschan's github stats"></a>
+<a href="https://github.com/krschan"><img src="https://github-readme-stats.vercel.app/api?username=krschan&hide_border=true&theme=date_night&show_icons=true" alt="krschan's github stats"></a>
 </p>
+</details>
 
 </div><br>
 <p align="right"><img src="https://profile-counter.glitch.me/krschan/count.svg" alt="Visitor Count"/>  </p>
