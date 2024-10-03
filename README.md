@@ -13,12 +13,15 @@
 <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
 <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
 <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
-<img alt="php" src="https://raw.githubusercontent.com/MaruanBO/MaruanBO/master/assets/php.gif" width="60" title="php">
+<img alt="php" src="https://ftp.ntu.edu.tw/php/images/logos/new-php-logo.svg" width="60" title="php">
 <img alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="java">
 <img alt="java" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="50" title="java">
 </p>
 <div align="right" padding-right="">
 
+<p align="center">
+  <a href="https://github.com/krschan"><img src="https://github-readme-stats.vercel.app/api?username=krschan&hide_border=true&theme=date_night&show_icons=true" alt="krschan's github stats"></a>
+</p>
 
 </div><br>
 <p align="right"><img src="https://profile-counter.glitch.me/krschan/count.svg" alt="Visitor Count"/>  </p>
