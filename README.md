@@ -40,6 +40,7 @@
 <details>
   <summary><b>🎧</b></summary><br><br>
   <div align="center">
+    
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=draigonmaster1&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
   </div>
 </details>
