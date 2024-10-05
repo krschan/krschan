@@ -24,9 +24,9 @@
 </div>
 
 <details>
-  <summary>Coding stats</summary>
+  <summary>Languages stats</summary>
   <div align="center">
-  <img src="https://wakatime.com/share/@e13d1bf5-189c-42ef-a31c-baec49c8edf3/ec1ade61-07fb-4455-af5e-205396a559f7.svg" height="400">
+  <img src="https://wakatime.com/share/@e13d1bf5-189c-42ef-a31c-baec49c8edf3/4ec5c086-fee3-4929-8a61-91ec8b3b86c2.svg height="400">
   </div>
 </details>
 
