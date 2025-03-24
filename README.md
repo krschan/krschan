@@ -4,22 +4,13 @@
   
 <div align="center">
 
-  <h2 align="center">hey, i'm kris.</h2>
+# hey, i'm kris.
+
+</samp>
   
-  <h5>languages & tools:</h5>
-  
-  </samp>
-  
-  <p align="center">
-  <img alt="vscode" src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="50" title="vscode">
-  <img alt="javascript" src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50" title="javascript">
-  <img alt="html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="50" title="html">
-  <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="50" title="css">
-  <img alt="php" src="https://ftp.ntu.edu.tw/php/images/logos/new-php-logo.svg" width="60" title="php">
-  <img alt="java" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="50" title="java">
-  <img alt="java" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/mysqlworkbench_93532.png" width="50" title="java">
-  </p>
-  
+### languages & Tools:
+Dart, Kotlin, Python, Java, JavaScript, HTML, CSS, PHP, Bash scripting etc | Spring Boot, Flutter | MongoDB, SQL
+
   <p align="right"><img src="https://profile-counter.glitch.me/krschan/count.svg" alt="Visitor Count"/>  </p>
 </div>
 
