@@ -8,7 +8,7 @@
 
 </samp>
   
-### languages & Tools:
+### languages & tools:
 Dart, Kotlin, Python, Java, JavaScript, HTML, CSS, PHP, Bash scripting etc | Spring Boot, Flutter | MongoDB, SQL
 
   <p align="right"><img src="https://profile-counter.glitch.me/krschan/count.svg" alt="Visitor Count"/>  </p>
