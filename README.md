@@ -12,7 +12,7 @@
 
 <div align="right">
 
-### *aspiring full-stack dev.*
+### *full-stack dev.*
 
 </div>
 
